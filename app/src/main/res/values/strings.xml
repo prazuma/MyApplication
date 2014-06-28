@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application 2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main_activity2">MainActivity2</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_send">Send(Text)</string>
+    <string name="voice_send">Send(Voice)</string>
+    <string name="openApp">OpenApp</string>
+    <string name="setText">SetText</string>
+    <string name="action_camera">Camera</string>
+    <string name="title_activity_mail">メール作成</string>
+    <string name="action_settings">メール送信</string>
+    <string name="edit_address">アドレス入力</string>
+    <string name="edit_title">タイトル入力</string>
+    <string name="edit_mail">本文入力</string>
+    <string name="search_address">検索</string>
+    <string name="add_picture">添付</string>
+
+</resources>
